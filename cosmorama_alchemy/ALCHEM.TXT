@@ -1,0 +1,75 @@
+A Typeface by "Laser Printing Solutions"                 Date: 7/7/04
+
+The enclosed shareware ALCHEMY font is designed to work with Windows.
+It contains just under half of the characters that one would
+normally have in a Windows (8-bit) set.
+
+If you are NOT using a font utility to select "font groups," then to
+install the TrueType font, simply launch Windows, open the Control
+Panel, select Fonts, then File | Install New Font, and choose Alchemy
+from the correct drive and directory.
+Once installed, print out the ALCHEM.RTF file for symbol location/name.
+
+Note that you will not be able to embed the ALCHEMY font into a document.
+Legally, you will need to purchase the font to do this. Also note that if the
+font is used commercially, a license is required. 
+
+The extended set contains elements and other materials used by
+alchemists such as filter, test tube, bismuth, clay, honey, nitric
+acid, salt, sand, sugar, etc., some in different variants. Because
+there are so many variants for Alchemical symbols, I do plan to produce
+another font with 200 odd symbols.
+
+Although submitted as shareware, it is *not* to be financially 
+distributed (or placed on any disk, or BBS for which a charge is made) 
+*without* permission of the author. It is yours to use and enjoy for 30 
+days, but at the end of that time, if you are still using this font you 
+are morally obligated to send in the shareware fee which is $6.00. 
+If you want to obtain the extended set or use this font commercially, 
+send an e-mail or call using the information at the end of this text.
+
+Placement of this and any of my fonts on a website for download must
+provide an acknowledgement that Kenneth Hirst is the designer of the font
+and list my websites (listed below).
+
+$15 U.S. to receive the extended set, or $6.00 just to register.
+I have a secure web page that can take paypal or a credit card at:
+http://www.radioastrology.com/FCart.htm
+
+By registering, I can inform you of updates and new releases. Many less
+expensive fonts are simply scanned images that have not been optimally
+hand tuned, so please do not commercially exploit this font.
+
+As of January 2000 the following fonts have been released:
+
+Font              Shareware Fee    Full Version Fee
+----              -------------    -----------------
+Astro                $6.00           $12.50  full=Extended version
+Alchemy              $6.00           $15.00  full=Extended version
+American Indian     $11.50           $11.50  full is same as shareware
+Sequoyah            $12.50           $12.50  full is same as shareware
+GD_Enochian         $15.00           $15.00  Enochian glyphs & some Astro
+Arabic              $15.00           $15.00  Arabic, Farsi, Urdu chars
+Flowchart           $15.00           $15.00
+Special Pi             N/A           $12.50
+Circle Bullets         N/A           $10.00
+Arrow Bullets          N/A           $10.00
+
+All TrueType fonts are compiled for optimal utilization on PC systems. 
+Many less expensive fonts are simply scanned images that have not been 
+optimally hand tuned, so please do not commercially exploit this font. 
+
+This Alchemy font is Copyright, 1993, by Kenneth Hirst. All Rights Reserved.
+
+Kenneth Hirst, Irvine CA 92604  USA.
+
+http://sites.google.com/site/cosmoramaent/home
+
+http://www.radioastrology.com
+
+or search for 
+
+font "Kenneth Hirst"
+
+using Google if all else fails.
+Tel: (949) 733-0423
